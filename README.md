@@ -18,6 +18,14 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 </p>
 
+> Status do Projeto: Em desenvolvimento :warning: 
+
+## Descrição do Projeto
+
+<p align="justify"> 
+  O objetivo desse projeto é simular a netflix durante a imersão react realizada pela Alura Cursos Online. 
+</p>
+
 ## Deploy
 
 <p align="justify">
@@ -41,7 +49,7 @@ Entre no projeto e instale as dependências através do comando:
 ```
 npm install
 ```
-Por últomo, suba a aplicação: 
+Por último, suba a aplicação: 
 ```
 npm start
 ```
